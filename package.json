@@ -35,6 +35,6 @@
     "validate": "kcd-scripts validate lint"
   },
   "devDependencies": {
-    "kcd-scripts": "^0.38.1"
+    "kcd-scripts": "^15.0.1"
   }
 }
